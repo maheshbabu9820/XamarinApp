@@ -1,0 +1,30 @@
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\bin\Debug\netstandard2.0\XamDemo.deps.json
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\bin\Debug\netstandard2.0\XamDemo.dll
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\bin\Debug\netstandard2.0\ref\XamDemo.dll
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\bin\Debug\netstandard2.0\XamDemo.pdb
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamDemo.csproj.AssemblyReference.cache
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\MyPage.xaml.g.cs
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamDemo.AssemblyInfoInputs.cache
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamDemo.AssemblyInfo.cs
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamDemo.dll
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\ref\XamDemo.dll
+C:\Users\Mobile Programming\Desktop\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamDemo.pdb
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\bin\Debug\netstandard2.0\XamDemo.deps.json
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\bin\Debug\netstandard2.0\XamDemo.dll
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\bin\Debug\netstandard2.0\ref\XamDemo.dll
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\bin\Debug\netstandard2.0\XamDemo.pdb
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamDemo.csproj.AssemblyReference.cache
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\MyPage.xaml.g.cs
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamDemo.AssemblyInfoInputs.cache
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamDemo.AssemblyInfo.cs
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamDemo.dll
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\ref\XamDemo.dll
+C:\Users\Mobile Programming\Desktop\Important Documents\xamdemo-main\XamDemo\XamDemo\XamDemo\obj\Debug\netstandard2.0\XamDemo.pdb
